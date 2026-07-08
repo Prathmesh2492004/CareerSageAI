@@ -139,32 +139,6 @@ Frontend will run at:
 http://localhost:3000
 ```
 
----
-
-## 📸 Screenshots (Add Screenshots Here)
-
-### 🔹 Login Page
-
-*Add screenshot*
-
-### 🔹 Register Page
-
-*Add screenshot*
-
-### 🔹 Student Dashboard
-
-*Add screenshot*
-
-### 🔹 Aptitude Test
-
-*Add screenshot*
-
-### 🔹 Final Career Recommendation
-
-*Add screenshot*
-
----
-
 ## 🚀 Future Enhancements
 
 * Add **AI Chatbot** for student doubts
@@ -203,6 +177,4 @@ Thanks to MIT ADT University for providing guidance and support during the devel
 
 This project is created for educational purposes.
 
----
 
-Just tell me!
